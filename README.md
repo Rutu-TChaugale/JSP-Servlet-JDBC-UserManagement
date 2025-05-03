@@ -167,7 +167,7 @@ MIT License – Free to use and modify for educational or personal projects.
 
 ## 👨‍💻 Author
 
-Created with 💻 by **\[Your Name Here]**
+Created with 💻 by Rutika Tanaji Chaugale
 
 ---
 
